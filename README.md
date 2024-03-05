@@ -1,6 +1,14 @@
-### Hi there 👋
+# Sou o José Vitor Rodrigues e seja bem-vindo ao meu perfil do GitHub!🤙
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeVitorR&show_icons=true&theme=merko)](https://github.com/ZeVitorR/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeVitorR&layout=donut)](https://github.com/ZeVitorR/github-readme-stats)
+
+
+## Contribuições
+Sempre estou aberto a contribuições e colaborações em projetos interessantes. Se você tem alguma ideia ou projeto interessante, fique à vontade para entrar em contato.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou sugestão. Vamos criar coisas incríveis juntos! 🚀
 
 <!--
 **ZeVitorR/ZeVitorR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
